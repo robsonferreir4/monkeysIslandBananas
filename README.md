@@ -1,6 +1,10 @@
 
 # Skill Test Looking for Bananas in the Monkeys island
 
+O desafio apresentado nos remete à uma busca em uma matriz, ou seja, caminhar nela e procurar uma solução para o 
+problema proposto. Notamos que as restrições de movimento nos lembraram de uma busca em árvore e a partir de algoritmos
+já conhecidos como a busca em largura, nós poderíamos tentar uma solução. É nesse tipo de busca que analisamos os nós
+vizinhos, o que é interessante para nós por causa da soma dos valores, ou seja, procurar o caminho máximo.
 
 Os comentários e explicações da solução estão no código
 ## Deploy
